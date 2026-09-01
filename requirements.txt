@@ -1,0 +1,18 @@
+# --- API (rag_api.py) ---
+fastapi
+uvicorn
+pydantic
+python-dotenv
+faiss-cpu
+numpy
+sentence-transformers
+langchain-core
+langchain-google-genai
+langchain-groq
+groq
+
+# --- Pipeline notebook (rag_pipeline.ipynb) ---
+PyMuPDF
+jupyter
+ipykernel
+tqdm

@@ -1,0 +1,17 @@
+# Secrets — never commit the real .env
+.env
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large source PDF (optional — uncomment if you don't want it in the repo;
+# GitHub blocks files over 100MB and this one is close to the limit already)
+# Harry Potter.pdf
