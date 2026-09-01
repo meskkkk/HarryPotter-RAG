@@ -629,5 +629,6 @@ __pycache__/
 ```
 
 If `harrypotter.index` and `chunks.pkl` are considered generated artifacts for the project, they may either be committed or regenerated from the notebook depending on the repository size and submission requirements.
-#   H a r r y P o t t e r - R A G  
+#   H a r r y P o t t e r - R A G 
+ 
  
